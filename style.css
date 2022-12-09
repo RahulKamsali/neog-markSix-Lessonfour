@@ -9,7 +9,7 @@
 
 body{
     font-family: 'Kalam', cursive;
-    background-image: url('/bkg.webp');
+    background-image: url('/images/bkg.webp');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
