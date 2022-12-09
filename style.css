@@ -43,11 +43,13 @@ textarea {
     width: 80%;
     height: 20vh;
     margin: 0.5rem 5rem;
-    padding: 0.5rem;
+    padding: 1.5rem;
     box-sizing: border-box;
     overflow: scroll;
     margin-bottom: 15rem;
     background-color: white;
+    font: black;
+    font-weight: 550;
     
 }
 
@@ -59,7 +61,7 @@ button{
     padding: 1rem 2rem;
 }
 
-main div{
+main p{
     color: blue;
     margin-left: 5rem;
     font-size: large;
@@ -86,4 +88,7 @@ footer{
 footer p {
     max-width: var(--width-break);
     margin: auto;
+}
+.space{
+    padding: 2rem;
 }
